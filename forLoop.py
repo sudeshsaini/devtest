@@ -3,8 +3,10 @@
 #print ('hi ')
 #print ('sudesh')
 
-list = ['sudesh', 1, 'saini']
+list = ['sudesh ', '1', 'sudesh']
 
+print(min(list))
+#list. add('kumar')
 # for loop for a range - index starts from 0
 for value in range(5):
     print (value)

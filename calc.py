@@ -1,0 +1,5 @@
+print('enter yout name')
+name= input()
+print('enter your age')
+age = int(input())
+print('age :',age.upper(),' and name is : ' , name.upper())
